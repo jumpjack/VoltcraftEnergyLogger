@@ -5,13 +5,29 @@
 
 Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500/EL4000
 
-## Excel converter
+## Converters
 
-https://sourceforge.net/projects/energylogxlsc/
+### Python
 
-## C# configurator
+- https://github.com/Lekensteyn/el4000
+- https://github.com/fmauch/power_consumption
 
-https://www.robvanderwoude.com/hardware_energylogger.php
+### Excel
+
+- https://sourceforge.net/projects/energylogxlsc/
+
+### C#
+
+- https://www.robvanderwoude.com/hardware_energylogger.php  (configurator)
+
+
+## Wikis
+
+
+## Sites
+
+
+
 
 ## C++
 
