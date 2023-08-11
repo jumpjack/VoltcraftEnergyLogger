@@ -15,7 +15,18 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 
 ## Official Voltcraft documentation on file format for EL4000
 
-- https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/EL4000-VoltCraft-Man-It-V1.12.pdf
+- https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/EL4000SD.pdf (english, data format)
+
+
+----------
+
+## SETUPEL.BIN format
+
+![image](https://github.com/jumpjack/VoltcraftEnergyLogger/assets/1620953/d5f15bed-2d22-426b-beaf-8a063eb6a3bb)
+
+
+
+-------------
 
 ## Converters
 
@@ -42,19 +53,24 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 
 ### C++
 
-https://github.com/smartmic/elogger
+- https://github.com/smartmic/elogger
 
 ### Rust
 
 - https://github.com/vbocan/voltcraft-energy-analyzer
-- 
+
 
 ## Wikis
 
+- http://wiki.td-er.nl/index.php?title=Energy_Logger_3500#Links
 
 ## Sites
 
+-
 
+## Documents
+
+- https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/EL4000-VoltCraft-Man-It-V1.12.pdf (Italian,  manual + data format)
 
 
 ## C++
