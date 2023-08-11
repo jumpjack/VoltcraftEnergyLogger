@@ -13,6 +13,10 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 - [Voltsoft device client](https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/DeviceClient.zip) (extracted from ISO)
 - [PDF manual online](http://www.stevenrogge.be/WordPress/wp-content/uploads/2013/01/VoltsoftUserManual.English.pdf)
 
+## Official Voltcraft documentation on file format for EL4000
+
+- https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/EL4000-VoltCraft-Man-It-V1.12.pdf
+
 ## Converters
 
 ### Python
