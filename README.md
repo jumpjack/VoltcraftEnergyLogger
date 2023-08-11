@@ -5,6 +5,14 @@
 
 Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500/EL4000
 
+## Official software by Voltcraft
+ - ???
+
+## New SW (VoltSoft suite)
+- [CD ISO image](https://archive.org/details/cd_20210113) on archive.org
+- CD ISO image mirror (in this repo)
+- [PDF manual online](http://www.stevenrogge.be/WordPress/wp-content/uploads/2013/01/VoltsoftUserManual.English.pdf)
+
 ## Converters
 
 ### Python
@@ -19,6 +27,10 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 ### C#
 
 - https://www.robvanderwoude.com/hardware_energylogger.php  (configurator)
+
+### C++
+
+https://github.com/smartmic/elogger
 
 
 ## Wikis
