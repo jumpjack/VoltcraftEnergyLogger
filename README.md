@@ -10,7 +10,7 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 
 ## New SW (VoltSoft suite)
 - [CD ISO image](https://archive.org/details/cd_20210113) on archive.org
-- CD ISO image mirror (in this repo)
+- [Voltsoft device client](https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/DeviceClient.zip) (extracted from ISO)
 - [PDF manual online](http://www.stevenrogge.be/WordPress/wp-content/uploads/2013/01/VoltsoftUserManual.English.pdf)
 
 ## Converters
