@@ -19,6 +19,14 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 
 - https://github.com/Lekensteyn/el4000
 - https://github.com/fmauch/power_consumption
+- https://github.com/iMilchshake/voltcraft-el-parser
+- https://github.com/vpelletier/voltcraft-el4k
+- https://github.com/mboye/energy-logger-ui
+- https://github.com/frodo81/EnergyMonitor
+
+### Java
+
+- https://github.com/PSDev/energylogger-parser
 
 ### Excel
 
@@ -32,6 +40,10 @@ Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500
 
 https://github.com/smartmic/elogger
 
+### Rust
+
+- https://github.com/vbocan/voltcraft-energy-analyzer
+- 
 
 ## Wikis
 
