@@ -17,7 +17,7 @@ Modern Voltcraft alternatives for energy logging:
 ## Official software by Voltcraft
  - ???
 
-## New SW (VoltSoft suite)
+## New software (VoltSoft suite)
 - [CD ISO image](https://archive.org/details/cd_20210113) on archive.org
 - [Voltsoft device client](https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/DeviceClient.zip) (extracted from ISO)
 - [PDF manual online](http://www.stevenrogge.be/WordPress/wp-content/uploads/2013/01/VoltsoftUserManual.English.pdf)
@@ -26,6 +26,9 @@ Modern Voltcraft alternatives for energy logging:
 
 - https://github.com/jumpjack/VoltcraftEnergyLogger/blob/main/EL4000SD.pdf (english, data format)
 
+## Datasheet of the ArchMeter P1000 chip used for measurement
+
+- https://archive.org/details/manualzilla-id-7374442/mode/2up
 
 ----------
 
