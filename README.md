@@ -3,7 +3,16 @@
 
 # Voltcraft Energy Loggers El3500/EL4000
 
-Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500/EL4000
+Collection of source codes, sites and info about Voltcraft Energy Loggers EL3500/EL4000.
+
+Modern Voltcraft alternatives for energy logging:
+- [SEM4500](https://www.conrad.it/it/p/voltcraft-sem4500-misuratore-costi-energetici-previsione-di-spesa-funzione-allarme-tariffa-elettrica-impostabile-1647179.html)
+- [SEM5000](https://www.conrad.it/it/p/voltcraft-sem5000-misuratore-costi-energetici-previsione-di-spesa-funzione-allarme-tariffa-elettrica-impostabile-funzione-datalogger-2587314.html) -([manual](https://asset.conrad.com/media10/add/160267/c1/-/gl/002587314ML00/istruzioni-per-luso-2587314-voltcraft-sem5000-misuratore-costi-energetici-previsione-di-spesa-funzione-allarme-tariffa-elettrica-impostabile-funz.pdf))
+- [SEM6000](https://www.conrad.it/it/p/voltcraft-sem6000-misuratore-costi-energetici-interfaccia-bluetooth-esportazione-dati-funzione-datalogger-trms-tariffa-elettrica-impostabile-con-controllo-via-app-1558906.html)
+- [SEM6000SE](https://www.conrad.it/it/p/voltcraft-sem6000se-misuratore-costi-energetici-interfaccia-bluetooth-esportazione-dati-funzione-datalogger-previsione-di-spesa-trms-tariffa-elettrica-impostabile-con-controllo-via-app-1892143.html)
+- [SEM6000 black](https://www.conrad.it/it/p/voltcraft-sem6000-black-misuratore-costi-energetici-interfaccia-bluetooth-esportazione-dati-funzione-datalogger-trms-tariffa-elettrica-impostabile-con-controllo-via-app-2346499.html)
+- [SEM6500](https://www.conrad.it/it/p/voltcraft-sem6500-misuratore-costi-energetici-presa-di-corrente-senza-fili-esportazione-dati-funzione-datalogger-previsione-di-spesa-trms-tariffa-elettrica-impostabile-con-controllo-via-app-connettivita-internet-1694192.html)
+- [SEM8500 (multi)](https://www.conrad.it/it/p/voltcraft-sem8500-misuratore-costi-energetici-incl-presa-di-corrente-senza-fili-esportazione-dati-funzione-datalogger-previsione-di-spesa-tariffa-elettrica-impostabile-con-controllo-via-app-connettivita-internet-2359015.html)
 
 ## Official software by Voltcraft
  - ???
